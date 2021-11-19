@@ -1,4 +1,4 @@
-package apllication;
+package application;
 
 public class Increment {
 
